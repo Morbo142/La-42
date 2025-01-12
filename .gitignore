@@ -1,17 +1,5 @@
-# LA 42
-open/
-CLOSET/
-[Oo]bj/
-[Bb]in/
+# NAME: LUXHACK
+/OPEN
 
-# SHOW
+/Close
 
-# Executables
-
-
-*.ipa
-
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
